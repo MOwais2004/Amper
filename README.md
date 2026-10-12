@@ -1,5 +1,11 @@
 # Amper — SaaS fintech website
 
+Live: https://mowais2004.github.io/Amper/
+
+
+https://github.com/user-attachments/assets/9015d98e-56e0-44fd-9622-9b9a113e38ac
+
+
 **Amper** is a fictional global business account: multi-currency accounts, cards, batch payouts, treasury yield and a payments API.
 Tagline: **"Money, fully charged ⚡"**. The name comes from *ampere*: money that's "charged" moves instantly. The bolt from the Velto reference is the one brand symbol. It appears in the logo, the loader, the hero headline, the notification icons, the word band and the favicon.
 
